@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">934802527112-c9i3rkn3n8eu1ntavu22qnabjmfuk12l.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">934802527112</string>
+    <string name="google_api_key" translatable="false">AIzaSyAqtvmsFu_FhESdX2Sg4U5gdA8cWE7Vm9U</string>
+    <string name="google_app_id" translatable="false">1:934802527112:android:cb7c153a9267489cb6a03d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAqtvmsFu_FhESdX2Sg4U5gdA8cWE7Vm9U</string>
+    <string name="google_storage_bucket" translatable="false">spendee-bb124.appspot.com</string>
+    <string name="project_id" translatable="false">spendee-bb124</string>
+</resources>
